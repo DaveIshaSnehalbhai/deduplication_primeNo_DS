@@ -1,4 +1,4 @@
-# Deduplicae Prime Number Distributed System With Primary BackUp
+# Deduplicate Prime Number Distributed System With Primary BackUp
 
 ## Problem Statement
 
