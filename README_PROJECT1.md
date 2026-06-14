@@ -1,4 +1,4 @@
-# Ikkat — A Distributed Prime-Number Discovery File System
+# Deduplicae Prime Number Distributed System With Primary BackUp
 
 ## Problem Statement
 
