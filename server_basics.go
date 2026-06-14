@@ -472,6 +472,9 @@ func (s *server) Delete(ctx context.Context, req *pb.DeleteRequest) (*pb.DeleteR
 
 	s.mu.Lock()
 	delete(s.table, safe)
+	if s.filesPrimes != nil {
+		delete(s.filesPrimes, safe)
+	}
 	resp := &pb.DeleteResponse{Message: "File is deleted"}
 	s.requests[req.RequestId] = &RequestEntry{response: resp, timestamp: time.Now()}
 	s.mu.Unlock()
