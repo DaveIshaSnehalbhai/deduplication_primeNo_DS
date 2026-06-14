@@ -1,0 +1,3 @@
+close_time_before_crash_s,failover_recovery_time_s,primary_crashed_as_expected,note
+0.197,0.000,false,set FAIL_DURING_REPLICATION=1 on primary to test failover
+0.153,0.000,false,set FAIL_DURING_REPLICATION=1 on primary to test failover

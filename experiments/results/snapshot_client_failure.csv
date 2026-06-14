@@ -1,0 +1,2 @@
+snapshot_completion_time_s,snapshot_success,snapshot_id,worker_captured_as_dirty,open_fds_for_worker,lease_expiry_tested,lease_timeout_constant
+0.038,true,exp04-1781430381,true,1,false,10m

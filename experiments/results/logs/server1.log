@@ -1,0 +1,14 @@
+2026/06/14 09:22:35 Starting Server 1 on port 5001...
+2026/06/14 09:22:35 File written: storage/output/bench_output_1000.txt
+2026/06/14 09:22:35 File written: storage/output/bench_output_10000.txt
+2026/06/14 09:22:35 File written: storage/output/bench_output_100000.txt
+2026/06/14 09:22:35 File written: storage/output/concurrent_dedup_test.txt
+2026/06/14 09:22:35 File written: storage/output/concurrent_dedup_test.txt
+2026/06/14 09:22:35 File written: storage/output/concurrent_dedup_test.txt
+2026/06/14 09:22:35 File written: storage/output/concurrent_dedup_test.txt
+2026/06/14 09:22:35 File written: storage/output/concurrent_dedup_test.txt
+2026/06/14 09:22:35 File written: storage/output/concurrent_dedup_test.txt
+2026/06/14 09:22:35 File written: storage/output/failover_test.txt
+2026/06/14 09:22:35 Recovery complete. commitIndex=10 entries=10
+2026/06/14 09:22:36 Critical server failure: listen tcp :5001: bind: address already in use
+exit status 1
